@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working as a software tester
-- 🌱 I’m currently learning java, Spring and Hibernate
+- 🌱 I’m currently learning Java, Spring and Hibernate
 - How to reach me:
     - 📫 initsan@yandex.ru
     - 📫 innakuryanova87@gmail.com
