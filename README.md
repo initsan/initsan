@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working as a software tester
 - 🌱 I’m currently learning java, Spring and Hibernate
-- 📫 How to reach me:
-    - initsan@yandex.ru
-    - innakuryanova87@gmail.com
-    - ![image](https://user-images.githubusercontent.com/61656890/127781400-b265e78c-d383-440d-b168-436d77e818b2.png) @initsan
+- How to reach me:
+    - 📫 initsan@yandex.ru
+    - 📫 innakuryanova87@gmail.com
+    - ![image](https://user-images.githubusercontent.com/61656890/127781523-afc0d95b-eca4-4185-903c-ed92453f7641.png) @initsan
