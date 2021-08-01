@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
     - initsan@yandex.ru
     - innakuryanova87@gmail.com
-    - ![image](https://user-images.githubusercontent.com/61656890/127781333-652b602e-dc81-4b8a-9e0a-4629e557b988.png) @initsan
+    - ![image](https://user-images.githubusercontent.com/61656890/127781400-b265e78c-d383-440d-b168-436d77e818b2.png) @initsan
